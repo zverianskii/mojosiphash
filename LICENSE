@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2023 Alex Zverianskii
+This code is a Mojo translation/rewrite by Aleksandr Zverianskii of csiphash and pysiphash  written by Marek Majkowski, which can be found at https://github.com/majek/csiphash/. The original MIT License terms apply:
+
+ Copyright (c) 2013  Marek Majkowski <marek@popcount.org>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
